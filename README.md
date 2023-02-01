@@ -15,12 +15,7 @@ The project aims to streamline the blood donation process and provide real-time 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-    1. Clone the repository to your local machine
-
-bash
-
-git clone https://github.com/<repo-name>.git 
-
+    1. Clone the repository to your local machine git clone https://github.com/jdfung/BloodDay.git
     2. Open the solution in Visual Studio or any suitable IDEs
     3. Create a MySQL database and update the connection string in the appsettings.json file
     4. Build and run the project
