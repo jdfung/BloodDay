@@ -1,6 +1,6 @@
 # BloodDay
 
-This is a web-based application for managing blood donations, developed using ASP.NET, C#, and MySQL. The application provides a platform for blood banks and donors to interact and manage the blood donation process efficiently.
+This is a web-based application for managing blood donations, developed using ASP.NET, C#, and MySQL. The application provides a platform for donors to interact and manage their blood donation process efficiently.
 
 ## Features include:
 
