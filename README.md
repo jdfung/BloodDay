@@ -17,5 +17,6 @@ These instructions will get you a copy of the project up and running on your loc
 
     1. Clone the repository to your local machine git clone https://github.com/jdfung/BloodDay.git
     2. Open the solution in Visual Studio or any suitable IDEs
-    3. Create a MySQL database and update the connection string in the appsettings.json file
+    3. Create a MySQL database or utilize the BloodDaydb in the repository.
+    4. Update the database connection string in the C# code.
     4. Build and run the project
